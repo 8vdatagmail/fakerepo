@@ -1,2 +1,1 @@
-# fakerepo
-this is solely for practice
+I just updated readme file
